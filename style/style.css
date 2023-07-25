@@ -1,0 +1,37 @@
+#logotipo{
+    width:200px;    
+    right:100px;
+}
+
+#title{
+    text-align: center;
+    margin-right: 500px;
+    font-family:  'Merriweather', serif;
+    color:black;
+}
+
+.navbar{
+    background-color: rgb(255, 255, 255);
+    position: fixed;
+}
+
+#img{
+    margin-top: 200px;
+    width:200px;    
+   
+   
+}
+
+img,p{
+    display: inline-block;
+    align-items: center;
+    
+}
+
+#text{
+    font-family:  'Merriweather', serif;
+    font-size:20px;
+    margin-left: 20px;
+    text-align: center;
+    margin-top: 250px;
+}
