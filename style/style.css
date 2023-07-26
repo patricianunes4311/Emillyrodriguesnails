@@ -1,5 +1,5 @@
 #logotipo{
-    width:200px;    
+    width:100px;    
     right:100px;
 }
 
@@ -8,30 +8,18 @@
     margin-right: 500px;
     font-family:  'Merriweather', serif;
     color:black;
+    letter-spacing: 4px;
 }
 
 .navbar{
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(236, 207, 207);
     position: fixed;
+    right:0px;    
+    left:0px;
 }
 
-#img{
-    margin-top: 200px;
-    width:200px;    
-   
-   
-}
 
-img,p{
-    display: inline-block;
-    align-items: center;
-    
-}
 
-#text{
-    font-family:  'Merriweather', serif;
-    font-size:20px;
-    margin-left: 20px;
-    text-align: center;
-    margin-top: 250px;
+.card{
+    margin-top: 150px;
 }
