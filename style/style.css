@@ -13,13 +13,15 @@
 
 .navbar{
     background-color: rgb(236, 207, 207);
-    position: fixed;
+   
     right:0px;    
     left:0px;
 }
 
-
-
-.card{
+.container-fluid2{
     margin-top: 150px;
 }
+
+
+
+
